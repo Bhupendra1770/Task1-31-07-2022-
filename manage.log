@@ -1,0 +1,1155 @@
+INFO:root:trying to read dataset and store in variable name df
+INFO:root:we have succefully read the dataset
+INFO:root:trying to make connection to mysql database
+INFO:root:we have succesfully made connection to database
+INFO:root:trying to make connection to mysql database and create a database name fit_data
+INFO:root:we have succesfully made connection to database
+INFO:root:creating a table name table1 in database fit_data
+INFO:root:we have create table in our database successfully
+INFO:root:trying to read dataset and store in variable name df
+INFO:root:we have succefully read the dataset
+INFO:root:trying to make connection to mysql database and create a database name fit_data
+INFO:root:we have succesfully made connection to database
+INFO:root:creating a table name table1 in database fit_data
+INFO:root:we have create table in our database successfully
+INFO:root:inserting data in table1
+INFO:root:data inserted succesfully
+INFO:root:convert datatype of a column and store it in a new colummn name new_ActivityDate
+INFO:root:we have converted datatype of column succesfully
+INFO:root:trying convert datatype of column to datetime using sql query
+INFO:root:trying convert datatype of column to datetime using sql query
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 12),)
+INFO:root:(datetime.date(2016, 3, 13),)
+INFO:root:(datetime.date(2016, 3, 14),)
+INFO:root:(datetime.date(2016, 3, 15),)
+INFO:root:(datetime.date(2016, 3, 16),)
+INFO:root:(datetime.date(2016, 3, 17),)
+INFO:root:(datetime.date(2016, 3, 18),)
+INFO:root:(datetime.date(2016, 3, 19),)
+INFO:root:(datetime.date(2016, 3, 20),)
+INFO:root:(datetime.date(2016, 3, 21),)
+INFO:root:(datetime.date(2016, 3, 22),)
+INFO:root:(datetime.date(2016, 3, 23),)
+INFO:root:(datetime.date(2016, 3, 24),)
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 12),)
+INFO:root:(datetime.date(2016, 3, 13),)
+INFO:root:(datetime.date(2016, 3, 14),)
+INFO:root:(datetime.date(2016, 3, 15),)
+INFO:root:(datetime.date(2016, 3, 16),)
+INFO:root:(datetime.date(2016, 3, 17),)
+INFO:root:(datetime.date(2016, 3, 18),)
+INFO:root:(datetime.date(2016, 3, 19),)
+INFO:root:(datetime.date(2016, 3, 20),)
+INFO:root:(datetime.date(2016, 3, 21),)
+INFO:root:(datetime.date(2016, 3, 22),)
+INFO:root:(datetime.date(2016, 3, 23),)
+INFO:root:(datetime.date(2016, 3, 24),)
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 12),)
+INFO:root:(datetime.date(2016, 3, 13),)
+INFO:root:(datetime.date(2016, 3, 14),)
+INFO:root:(datetime.date(2016, 3, 15),)
+INFO:root:(datetime.date(2016, 3, 16),)
+INFO:root:(datetime.date(2016, 3, 17),)
+INFO:root:(datetime.date(2016, 3, 18),)
+INFO:root:(datetime.date(2016, 3, 19),)
+INFO:root:(datetime.date(2016, 3, 20),)
+INFO:root:(datetime.date(2016, 3, 21),)
+INFO:root:(datetime.date(2016, 3, 22),)
+INFO:root:(datetime.date(2016, 3, 23),)
+INFO:root:(datetime.date(2016, 3, 24),)
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 12),)
+INFO:root:(datetime.date(2016, 3, 13),)
+INFO:root:(datetime.date(2016, 3, 14),)
+INFO:root:(datetime.date(2016, 3, 15),)
+INFO:root:(datetime.date(2016, 3, 16),)
+INFO:root:(datetime.date(2016, 3, 17),)
+INFO:root:(datetime.date(2016, 3, 18),)
+INFO:root:(datetime.date(2016, 3, 19),)
+INFO:root:(datetime.date(2016, 3, 20),)
+INFO:root:(datetime.date(2016, 3, 21),)
+INFO:root:(datetime.date(2016, 3, 22),)
+INFO:root:(datetime.date(2016, 3, 23),)
+INFO:root:(datetime.date(2016, 3, 24),)
+INFO:root:(datetime.date(2016, 3, 25),)
+INFO:root:(datetime.date(2016, 3, 26),)
+INFO:root:(datetime.date(2016, 3, 27),)
+INFO:root:(datetime.date(2016, 3, 28),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 3, 29),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 3, 30),)
+INFO:root:(datetime.date(2016, 3, 31),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:(datetime.date(2016, 4, 1),)
+INFO:root:(datetime.date(2016, 4, 2),)
+INFO:root:(datetime.date(2016, 4, 3),)
+INFO:root:(datetime.date(2016, 4, 4),)
+INFO:root:(datetime.date(2016, 4, 5),)
+INFO:root:(datetime.date(2016, 4, 6),)
+INFO:root:(datetime.date(2016, 4, 7),)
+INFO:root:(datetime.date(2016, 4, 8),)
+INFO:root:(datetime.date(2016, 4, 9),)
+INFO:root:(datetime.date(2016, 4, 10),)
+INFO:root:(datetime.date(2016, 4, 11),)
+INFO:root:(datetime.date(2016, 4, 12),)
+INFO:root:succescfully converted datattype of column using sql query
+INFO:root:grouping data on bases of id column
+INFO:root:grouped data succesfully and store in variable name df1
+INFO:root:finding unique id in dataset
+INFO:root:succesfully fined unique vale in dataset
+INFO:root:finding unique id in dataset
+INFO:root:succesfully fined unique vale in dataset
+INFO:root:           Id ActivityDate  TotalSteps  TotalDistance  TrackerDistance  \
+0  1503960366    3/25/2016       11004           7.11             7.11   
+1  1503960366    3/26/2016       17609          11.55            11.55   
+2  1503960366    3/27/2016       12736           8.53             8.53   
+3  1503960366    3/28/2016       13231           8.93             8.93   
+4  1503960366    3/29/2016       12041           7.85             7.85   
+
+   LoggedActivitiesDistance  VeryActiveDistance  ModeratelyActiveDistance  \
+0                       0.0                2.57                      0.46   
+1                       0.0                6.92                      0.73   
+2                       0.0                4.66                      0.16   
+3                       0.0                3.19                      0.79   
+4                       0.0                2.16                      1.09   
+
+   LightActiveDistance  SedentaryActiveDistance  VeryActiveMinutes  \
+0                 4.07                      0.0                 33   
+1                 3.91                      0.0                 89   
+2                 3.71                      0.0                 56   
+3                 4.95                      0.0                 39   
+4                 4.61                      0.0                 28   
+
+   FairlyActiveMinutes  LightlyActiveMinutes  SedentaryMinutes  Calories  \
+0                   12                   205               804      1819   
+1                   17                   274               588      2154   
+2                    5                   268               605      1944   
+3                   20                   224              1080      1932   
+4                   28                   243               763      1886   
+
+  new_ActivityDate  
+0       2016-03-25  
+1       2016-03-26  
+2       2016-03-27  
+3       2016-03-28  
+4       2016-03-29  
+INFO:root:finding unique id in dataset
+INFO:root:succesfully fined unique vale in dataset
+INFO:root:[1503960366 1624580081 1644430081 1844505072 1927972279 2022484408
+ 2026352035 2320127002 2347167796 2873212765 2891001357 3372868164
+ 3977333714 4020332650 4057192912 4319703577 4388161847 4445114986
+ 4558609924 4702921684 5553957443 5577150313 6117666160 6290855005
+ 6391747486 6775888955 6962181067 7007744171 7086361926 8053475328
+ 8253242879 8378563200 8583815059 8792009665 8877689391]
+INFO:root:finding most active id
+INFO:root:succesfully find most active id
+INFO:root:finding most active id
+INFO:root:finding most active id
+INFO:root:finding most active id
+INFO:root:succesfully find most active id
+INFO:root:            Id  TotalSteps  TotalDistance  TrackerDistance  \
+13  4020332650      184851          132.6            132.6   
+
+    LoggedActivitiesDistance  VeryActiveDistance  ModeratelyActiveDistance  \
+13                       0.0                 5.3                      6.29   
+
+    LightActiveDistance  SedentaryActiveDistance  VeryActiveMinutes  \
+13                71.71                      0.2                130   
+
+    FairlyActiveMinutes  LightlyActiveMinutes  SedentaryMinutes  Calories  
+13                  245                  4172             34663     98412  
+INFO:root:trying to find most active id in dataset using sql query
+INFO:root:(1503960366, 3669)
+INFO:root:succesfully find most active id using sql query
+INFO:root:finfing those person who not logged their activity
+INFO:root:succusfuly finf those person who not logged their activity
+INFO:root:0     1503960366
+1     1624580081
+2     1644430081
+3     1844505072
+4     1927972279
+5     2022484408
+6     2026352035
+7     2320127002
+8     2347167796
+9     2873212765
+11    3372868164
+12    3977333714
+13    4020332650
+15    4319703577
+16    4388161847
+17    4445114986
+18    4558609924
+19    4702921684
+20    5553957443
+21    5577150313
+22    6117666160
+23    6290855005
+25    6775888955
+28    7086361926
+29    8053475328
+30    8253242879
+32    8583815059
+33    8792009665
+34    8877689391
+Name: Id, dtype: int64
+INFO:root:finding laziest person id
+INFO:root:succesfully find laziest person in dataset
+INFO:root:{3977333714: 1288}
+INFO:root:finding third most active person in dataset
+INFO:root:succesfully find third most active person in dataset
+INFO:root:{8877689391: 3527}
+INFO:root:finding laziest person id
+INFO:root:succesfully find laziest person in dataset
+INFO:root:            Id  Calories
+16  4388161847     14442
+INFO:root:finding healthy person according to burning of thier calories lets assume a person should burn 2000 calories per day
+INFO:root:find healthy person succesfully
+INFO:root:[1503960366 1644430081 1927972279 2022484408 2320127002 2347167796
+ 2873212765 2891001357 3372868164 4020332650 4057192912 4319703577
+ 4445114986 4558609924 4702921684 5553957443 5577150313 6117666160
+ 6290855005 6391747486 6775888955 6962181067 7007744171 7086361926
+ 8053475328 8253242879 8378563200 8583815059 8792009665 8877689391]
+INFO:root:finding most active person with sql query
+INFO:root:(4702921684, Decimal('84644'))
+INFO:root:succesfully find most active person using sql query
+INFO:root:finding total accumulate calories burn for a person 
+INFO:root:find total calories of a person succesfully
+INFO:root:finding total accumulate calories burn for a person 
+INFO:root:find total calories of a person succesfully
+INFO:root:            Id  Calories
+0   1503960366     34128
+1   1624580081     25705
+2   1644430081     29164
+3   1844505072     19391
+4   1927972279     27048
+5   2022484408     29704
+6   2026352035     16266
+7   2320127002     18385
+8   2347167796     30320
+9   2873212765     20349
+10  2891001357     18187
+11  3372868164     18603
+12  3977333714     16777
+13  4020332650     98412
+14  4057192912     60913
+15  4319703577     23931
+16  4388161847     14442
+17  4445114986     31617
+18  4558609924     21962
+19  4702921684     42322
+20  5553957443     21630
+21  5577150313     36303
+22  6117666160     20993
+23  6290855005     21656
+24  6391747486     15868
+25  6775888955     24523
+26  6962181067     29249
+27  7007744171     31525
+28  7086361926     26124
+29  8053475328     31825
+30  8253242879     17556
+31  8378563200     40274
+32  8583815059     19130
+33  8792009665     24884
+34  8877689391     41414
+INFO:root:finding third most active person in dataset
+INFO:root:succesfully find third most active person in dataset
+INFO:root:{2873212765: 1335}
+INFO:root:finding third most active person in dataset
+INFO:root:succesfully find third most active person in dataset
+INFO:root:{8877689391: 3527}
+INFO:root:trying to find third most active person in dataset
+INFO:root:find succesfully third most active person in dataset
+INFO:root:trying to find third most active person in dataset
+INFO:root:find succesfully third most active person in dataset
+INFO:root:            Id  TotalSteps  TotalDistance  TrackerDistance  \
+19  4702921684      119151          96.69            96.69   
+
+    LoggedActivitiesDistance  VeryActiveDistance  ModeratelyActiveDistance  \
+19                       0.0                3.57                     12.17   
+
+    LightActiveDistance  SedentaryActiveDistance  VeryActiveMinutes  \
+19                80.84                      0.0                 44   
+
+    FairlyActiveMinutes  LightlyActiveMinutes  SedentaryMinutes  Calories  
+19                  259                  3701             10901     42322  
+INFO:root:trying to find third most active person in dataset
+INFO:root:find succesfully third most active person in dataset
+INFO:root:            Id  TotalSteps  TotalDistance  TrackerDistance  \
+16  4388161847           0            0.0              0.0   
+
+    LoggedActivitiesDistance  VeryActiveDistance  ModeratelyActiveDistance  \
+16                       0.0                 0.0                       0.0   
+
+    LightActiveDistance  SedentaryActiveDistance  VeryActiveMinutes  \
+16                  0.0                      0.0                  0   
+
+    FairlyActiveMinutes  LightlyActiveMinutes  SedentaryMinutes  Calories  
+16                    0                     0             11074     14442  
+INFO:root:trying to find third most active person in dataset
+INFO:root:find succesfully third most active person in dataset
+INFO:root:            Id  TotalSteps  TotalDistance  TrackerDistance  \
+19  4702921684      119151          96.69            96.69   
+
+    LoggedActivitiesDistance  VeryActiveDistance  ModeratelyActiveDistance  \
+19                       0.0                3.57                     12.17   
+
+    LightActiveDistance  SedentaryActiveDistance  VeryActiveMinutes  \
+19                80.84                      0.0                 44   
+
+    FairlyActiveMinutes  LightlyActiveMinutes  SedentaryMinutes  Calories  
+19                  259                  3701             10901     42322  
+INFO:root:trying to find third most active person in dataset
+INFO:root:find succesfully third most active person in dataset
+INFO:root:            Id  TotalSteps  TotalDistance  TrackerDistance  \
+30  8253242879       28679          20.15            20.15   
+
+    LoggedActivitiesDistance  VeryActiveDistance  ModeratelyActiveDistance  \
+30                       0.0                7.24                      3.39   
+
+    LightActiveDistance  SedentaryActiveDistance  VeryActiveMinutes  \
+30                 9.51                     0.03                 70   
+
+    FairlyActiveMinutes  LightlyActiveMinutes  SedentaryMinutes  Calories  
+30                   56                   711             16228     17556  
